@@ -3,6 +3,9 @@
 This is my DataScience portfolio. I keep including my portfolio projects here. 
 
 ## Machine Learning
+[Will the customer churn or not?](https://github.com/saif-byte/DataSciencePortfolio/blob/main/Total%20Order%20predictor/Predicting_total_orders_on_a_given_day.ipynb): A model to predict whether the customer will continue with our service or not. This model can be used to know before hand if the customer is about to stop using our services. then we can offer promotional discounts and emails to sustain these customers.
+_Tools used : Numpy, Pandas, Scikit learn , Seaborn, Matplotlib_
+
 [Predicting total orders on a given day](https://github.com/saif-byte/DataSciencePortfolio/blob/main/Total%20Order%20predictor/Predicting_total_orders_on_a_given_day.ipynb) : A model to predict total number of orders that can be treated in a day. This model can be used to evaluate performance of employees by predicting number of orders that can be delievered. 
 
 _Tools used : Numpy, Pandas, Scikit learn , Seaborn, Matplotlib_
