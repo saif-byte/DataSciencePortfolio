@@ -5,7 +5,7 @@ This is my DataScience portfolio. I keep including my portfolio projects here.
 ## Machine Learning:
 [Defaulter or not](https://github.com/saif-byte/DataSciencePortfolio/blob/main/Credit%20Risk%20Scoring/Credit_Risk_Scoring.ipynb): A model to predict whether the customer of a bank is going to get default. Banks and other financial institution can use this model to predict if the customer should be given more credit or the customer will be going to default.
 
-_Tools used : Numpy, Pandas, Scikit learn , imblearn , Seaborn, Matplotlib , Flask_, 
+_Tools used : Numpy, Pandas, Scikit learn , Seaborn, Matplotlib , Flask_, 
 
 [Will the customer churn or not?](https://github.com/saif-byte/DataSciencePortfolio/blob/main/Churn%20Prediction/Churn_or_not_Churn.ipynb): A model to predict whether the customer will continue with our service or not. This model can be used to know before hand if the customer is about to stop using our services. then we can offer promotional discounts and emails to sustain these customers. Serve the learned model to web using Flask.
 
