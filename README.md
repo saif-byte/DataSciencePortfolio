@@ -3,6 +3,10 @@
 This is my DataScience portfolio. I keep including my portfolio projects here. 
 
 ## Machine Learning:
+[Steel Industry load classification](https://github.com/saif-byte/DataSciencePortfolio/blob/main/Steel%20Industry%20Load%20Classification/load_type_classifier.ipynb): A model to predict load type using various feature such as kwh usage and current power factor. 
+
+_Tools used : Numpy, Pandas, Scikit learn , Seaborn, Matplotlib , Flask_,
+
 [Defaulter or not](https://github.com/saif-byte/DataSciencePortfolio/blob/main/Credit%20Risk%20Scoring/Credit_Risk_Scoring.ipynb): A model to predict whether the customer of a bank is going to get default. Banks and other financial institution can use this model to predict if the customer should be given more credit or the customer will be going to default.
 
 _Tools used : Numpy, Pandas, Scikit learn , Seaborn, Matplotlib , Flask_, 
