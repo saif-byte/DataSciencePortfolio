@@ -22,3 +22,8 @@ _Tools used : Numpy, Pandas, Scikit learn , Seaborn, Matplotlib_
 [Car Price Predictor](https://github.com/saif-byte/DataSciencePortfolio/blob/main/CarPricePrediction/Car_Price_Prediction.ipynb) : A model to predict prices of a car using linear regression model. This can be used in predicting prices of cars listed in car selling $ buying websites. Identified key attributes that effect the prices of cars.
 
 _Tools used : Numpy, Pandas, Seaborn, Matplotlib_
+
+## Web Scraping:
+[Blog Information Scraper](https://github.com/saif-byte/DataSciencePortfolio/blob/main/Web%20Scraping/Harvard%20Health%20Blog%20Website/HarvardHealthBlogScraper.ipynb): A python script to scrape all the information such as headline, summary, category , link and date published of all articles from a health blog website.
+
+_Tools used : BeautifulSoup_
