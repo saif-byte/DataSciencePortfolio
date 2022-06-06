@@ -15,6 +15,10 @@ _Tools used : Numpy, Pandas, Scikit learn , Seaborn, Matplotlib , Flask_,
 
 _Tools used : Numpy, Pandas, Scikit learn , Flask , Seaborn, Matplotlib_
 
+[Classifaction of clothes and accessory images](https://github.com/saif-byte/DataSciencePortfolio/blob/main/fashion_classification.ipynb): A model to predict the fashiion images and classify it into one of the 10 categories. The model can be used to classify the images that are being posted on an ecommerce platform.
+
+_Tools used : Numpy, Pandas, Tensorflow , Keras , Seaborn, Matplotlib_
+
 [Predicting total orders on a given day](https://github.com/saif-byte/DataSciencePortfolio/blob/main/Total%20Order%20predictor/Predicting_total_orders_on_a_given_day.ipynb) : A model to predict total number of orders that can be treated in a day. This model can be used to evaluate performance of employees by predicting number of orders that can be delievered. 
 
 _Tools used : Numpy, Pandas, Scikit learn , Seaborn, Matplotlib_
