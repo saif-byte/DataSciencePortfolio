@@ -28,6 +28,10 @@ _Tools used : Numpy, Pandas, Scikit learn , Seaborn, Matplotlib_
 _Tools used : Numpy, Pandas, Seaborn, Matplotlib_
 
 ## Web Scraping:
+[Google Maps Business Scraping](https://github.com/saif-byte/Extract-Business-List-from-Google-Maps): A python script to scrape all the data including business name, address, timings , website, phone, ratings , number of reviews, Top 3 reviews and image and save all the data in a csv file.
+
+_Tools used : Selenium_
+
 [Blog Information Scraper](https://github.com/saif-byte/DataSciencePortfolio/blob/main/Web%20Scraping/Harvard%20Health%20Blog%20Website/HarvardHealthBlogScraper.ipynb): A python script to scrape all the information such as headline, summary, category , link and date published of all articles from a health blog website.
 
 _Tools used : BeautifulSoup_
