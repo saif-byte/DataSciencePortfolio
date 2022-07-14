@@ -3,7 +3,7 @@
 This is my DataScience portfolio. I keep including my portfolio projects here. 
 
                                          
-#### 🖥🖥 Read Clients' Reviews [here](https://github.com/saif-byte/DataSciencePortfolio/edit/main/README.md#work-done-for-clients) ✅✅              
+#### 🖥🖥 Read Clients' Reviews [here](https://github.com/saif-byte/DataSciencePortfolio/blob/main/README.md#work-done-for-clients-) ✅✅              
                                                                                                                                        
                                          
 
@@ -36,7 +36,7 @@ _Tools used : Numpy, Pandas, Seaborn, Matplotlib_
 
 ## Web Scraping: 🐱‍💻🐱‍💻
 
-#### 🖥🖥 Read Clients' Reviews [here](https://github.com/saif-byte/DataSciencePortfolio/edit/main/README.md#work-done-for-clients) ✅✅ 
+#### 🖥🖥 Read Clients' Reviews [here](https://github.com/saif-byte/DataSciencePortfolio/blob/main/README.md#work-done-for-clients-) ✅✅ 
 
 [LinkedIn Scraper](https://youtu.be/hakagskXvpY): A python script to scrape all the data including name, email , connections,  about , experience, education, skills, intersests, certifications, company etc from a linkedin profile and company page.
  
