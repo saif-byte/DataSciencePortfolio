@@ -38,6 +38,10 @@ _Tools used : Numpy, Pandas, Seaborn, Matplotlib_
 
 #### 🖥🖥 Read Clients' Reviews [here](https://github.com/saif-byte/DataSciencePortfolio/edit/main/README.md#work-done-for-clients) ✅✅ 
 
+[LinkedIn Scraper](https://youtu.be/hakagskXvpY): A python script to scrape all the data including name, email , connections,  about , experience, education, skills, intersests, certifications, company etc from a linkedin profile and company page.
+ 
+_Tools used : Selenium , Selenium Webdriver_
+
 [Google Maps Business Scraping](https://github.com/saif-byte/Extract-Business-List-from-Google-Maps): A python script to scrape all the data including business name, address, timings , website, phone, ratings , number of reviews, Top 3 reviews and image and save all the data in a csv file.
 
 _Tools used : Selenium_
