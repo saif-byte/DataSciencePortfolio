@@ -50,6 +50,10 @@ _Tools used : Selenium_
 
 _Tools used : BeautifulSoup_
 
+[PDF to CSV](https://github.com/saif-byte/pdf_to_csv): A python script to extract data from pdf to csv, excel, google sheets or any database.
+
+_Tools used : Tabula_
+
 [Finding Best Deal on Booking.com](https://github.com/saif-byte/DataSciencePortfolio/tree/master/BestHotelDeal): A project to automate the task of finding best deal on Booking.com. The script will find best deals and save all the inforamtion in a csv file.
 
 
@@ -57,6 +61,15 @@ _Tools used : BeautifulSoup_
 
 #### API data extraction - ticketing websites - total list of events, venues, and pricing 
 Extracting data from ticketing website using API and selenium.
+
+#### Linkedin Scraper.
+Developed a linkedin scraper.
+
+##### _Client's Review_
+
+⭐⭐⭐⭐⭐
+
+>***"Quality of work and always available for questions and meetings."***
 
 #### Webscraping B2B - infinite scroll
 Web scraping from a B2B website. dealing with infinite scrolling problem.
