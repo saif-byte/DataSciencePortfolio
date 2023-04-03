@@ -59,8 +59,14 @@ _Tools used : Tabula_
 
 ## Work Done For Clients 👌👌
 
-#### API data extraction - ticketing websites - total list of events, venues, and pricing 
-Extracting data from ticketing website using API and selenium.
+#### Web scraping tool for lead generation
+Extracting data from flippa.com and then using extracted data to search leads on linkedin using python.
+
+##### _Client's Review_
+
+⭐⭐⭐⭐⭐
+
+>***"Saifullah successfully created 3 separate python files to help us scrape our target sites for data. He was also patient and communicative about how to run the file and made updates when requested".***
 
 #### Linkedin Scraper.
 Developed a linkedin scraper.
